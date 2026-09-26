@@ -1,0 +1,79 @@
+===========================================
+                 README
+             Puzzle Bound
+===========================================
+
+Project Title: Puzzle Bound  
+Project Type: 2D Platformer Puzzle PuzzleBound
+Developed by: Joshua Chu, Dizahlene Catenza, Lander Valeriano  
+
+
+───────────────────────────────────────────
+1. Project Overview
+───────────────────────────────────────────
+Puzzle Bound is a 2D platformer game designed to challenge players through unconventional and thought-provoking level mechanics.  
+While it initially presents itself as a traditional platformer — where the primary objective is to reach an exit — each level introduces unique and unexpected twists that subvert standard gameplay logic.  
+This design approach encourages players to think creatively, reinterpret rules, and solve platforming puzzles that require out-of-the-box strategies.
+
+The game was developed using Java and utilizes pixel-art-based visual and audio assets.
+
+
+
+───────────────────────────────────────────
+2. Asset Credits
+───────────────────────────────────────────
+
+▶ Music  
+Artist: Pix  
+Tracks Utilized:
+- “An-Ugly-Heart-But-It-does-Beats”  
+- “A-Lonely-Cherry-Tree-_”  
+
+All tracks are used with appropriate attribution and under terms set by the artist.
+
+▶ Visual resource
+Creator: Pixel Frog  
+Asset Pack Title: Pixel Adventure  
+These visual elements form the basis of the game's tilemaps, character sprites, and interactive elements. The asset pack is used in accordance with its distribution license.
+
+▶ Font  
+Font Name: Press Start 2P  
+Creator: CraftPix  
+Used throughout the game for user interface elements and in-game text to evoke a classic arcade feel.
+
+
+───────────────────────────────────────────
+3. To Play
+───────────────────────────────────────────
+
+**Instructions to Run the PuzzleBound**
+
+
+To play Puzzle Bound, please follow these steps:
+
+1. Open your terminal or command prompt and navigate to the root folder of the project.
+
+2. Compile the game files by running the following command: javac src/PuzzleBound.java
+
+3. Once the compilation is complete, run the game using: java src.PuzzleBound
+
+Make sure that the `assets/` folder is located in the root directory, as it is required for loading images, sounds, and other game content.
+
+
+───────────────────────────────────────────
+4. Licensing and Use
+───────────────────────────────────────────
+This game was created solely for academic purposes. All external assets are credited accordingly and used in compliance with their respective licenses.  
+No commercial distribution is intended. Redistribution or adaptation of this game must retain full credit to the original developers and third-party asset creators.
+
+
+───────────────────────────────────────────
+5. Acknowledgements
+───────────────────────────────────────────
+We would like to thank the artists and asset creators whose work helped bring Puzzle Bound to life. We also extend gratitude to our peers and instructors for their feedback and support throughout the development process.
+
+───────────────────────────────────────────
+
+Thank you for reviewing Puzzle Bound.
+
+– Joshua Chu, Dizahlene Catenza, Lander Valeriano
